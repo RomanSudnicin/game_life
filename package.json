@@ -1,0 +1,17 @@
+{
+  "name": "game_life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "mocha"
+  },
+  "author": "Roman Sudnicin",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "electron": "^21.2.0",
+    "mocha": "^10.1.0"
+  }
+}
